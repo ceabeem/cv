@@ -104,7 +104,6 @@ section::after {
     width: 120px;
     text-align: center;
     padding-top: 20px;
-    /* Position the tooltip */
     position: absolute;
     z-index: 6;
 }
